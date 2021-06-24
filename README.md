@@ -22,7 +22,7 @@ Users should be able to:
 ### Screenshots
 
 ## Desktop-View
-![](./desktop_view.jpg)
+![](./destkop_view.jpg)
 
 ## Mobile-View
 
