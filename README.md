@@ -6,7 +6,7 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshot](#screenshots)
   - [Links](#links)
   - [Built with](#built-with)
 
@@ -22,7 +22,7 @@ Users should be able to:
 ### Screenshots
 
 ## Desktop-View
-![](./desktop-view.jpeg)
+![](./desktop_view.jpeg)
 
 ## Mobile-View
 
