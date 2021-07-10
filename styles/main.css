@@ -155,24 +155,13 @@ body {
 
 @media only screen and (max-width: 1255px) {
   .grid-container {
-    width: 100%;
+    width: 95%;
   }
 }
 
 @media only screen and (max-width: 1000px) {
   .grid-container {
-    margin-top: 0;
     width: 100%;
-  }
-}
-
-@media only screen and (max-width: 900px) {
-  .container {
-    padding: 1rem;
-  }
-  .grid-container {
-    display: -ms-grid;
-    display: grid;
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
         grid-template-areas: 'a' 'b' 'd' 'e' 'c';
@@ -185,7 +174,7 @@ body {
     max-width: -webkit-fit-content;
     max-width: -moz-fit-content;
     max-width: fit-content;
-    margin: 0;
+    margin: 1rem;
   }
 }
 /*# sourceMappingURL=main.css.map */
