@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://janssenhidal.github.io/Testimonials/]
+- Solution URL: https://www.frontendmentor.io/solutions/html-scss-grid-1Y6l8J7q0
+- Live Site URL: https://janssenhidal.github.io/Testimonials/
 
 
 ### Built with
